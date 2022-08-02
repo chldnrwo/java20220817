@@ -1,0 +1,88 @@
+텀블러
+스틱커피
+
+집 가면 국취제 신청
+
+웹표준 기술
+html, css, js, jquery 등등
+
+Java
+DB-SQL 중심으로
+jsp
+spring
+
+Html5 css3 책 입수
+
+백승은 강사
+ㄴsebaek@gmail.com
+
+Html 먼저 배움
+why? 제일 쉬워서 	
+
+프론트엔드
+ㄴhtml
+ㄴcss-bootstrap
+ㄴjavascript-jquery, react
+	↑↓
+백엔드
+ㄴJSP,SERVLET
+ㄴSpring MVC
+	↑↓
+데이터베이스
+ㄴSQL
+
+HTML 실습사이트
+ㄴ초급 : w3schools.com
+ㄴ상급 : https://developer.mozilla.org/
+ㄴVSC에선 태그 눌러보면
+바로 모질라사이트 참조 가능
+
+첫날은 환경 설치
+VSC 글꼴d2coding git 크롬 등
+
+<br>은 새로운 줄
+html은 꺾쇠 안쓰고 엘리멘트만 써도된다
+VSC내에선
+
+html>head+body
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
