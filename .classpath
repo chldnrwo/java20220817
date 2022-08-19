@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="java20220817/src"/>
 	<classpathentry kind="src" path="ch01"/>
 	<classpathentry kind="src" path="ch02"/>
+	<classpathentry kind="src" path="ch03"/>
+	<classpathentry kind="src" path="ch04"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
