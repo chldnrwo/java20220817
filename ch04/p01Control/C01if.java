@@ -1,4 +1,4 @@
-package ch04.lecture;
+package p01Control;
 
 public class C01if {
 
